@@ -7,14 +7,14 @@ public class Main {
     public static void main(String[] args) {
 
 
-    }  static  int getSum(int ... a){
+    }  static  int getSum(int ... a) {
         int sum = 0;
-        for(int result : a){
-    sum+=result;
+        for (int result : a) {
+            sum += result;
 
 
-
-    }return sum;
+        }
+    }
 
 
 
