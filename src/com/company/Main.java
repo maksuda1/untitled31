@@ -1,9 +1,21 @@
 package com.company;
 
+import java.util.Random;
+
 public class Main {
 
     public static void main(String[] args) {
-	int a = 10;
-        System.out.println(a);
-    }
-}
+
+
+    }  static  int getSum(int ... a){
+        int sum = 0;
+        for(int result : a){
+    sum+=result;
+
+
+
+    }return sum;
+
+
+
+
